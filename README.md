@@ -1,3 +1,7 @@
+
+# Realizado en grupo
+👉 [ Aquí el resultado (Grupo "Los primeros") ](https://github.com/Master-Desarrollo-20-21/ejercicio-1-relaciones-entre-clases-jumpering)
+
 # Ejercicio 1 de Diseño Orientado a Objetos
 
 Repasar y recomponer el diagrama de clases del Juego de Mastermind en base a las explicaciones de la clase 2 del curso de Diseño Orientado a Objetos relativas a las relaciones entre clases.
